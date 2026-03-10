@@ -7,3 +7,4 @@ El objetivo del proyecto es crear una web funcional, organizada y visualmente at
 Este proyecto consiste en la creación de un portal web utilizando WordPress. El sitio está dedicado al videojuego Brawl Stars y ofrece información sobre novedades, eventos y contenidos relacionados con el juego.
 
 ![Logo de Markdown](imagen1.png)
+![Logo de Markdown](imagen2.png)
