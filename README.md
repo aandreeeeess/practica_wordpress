@@ -9,3 +9,6 @@ Este proyecto consiste en la creación de un portal web utilizando WordPress. El
 ![Logo de Markdown](imagen1.png)
 # imagen de calendario funcional
 ![Logo de Markdown](imagen2.png)
+# información sobre mi
+![Logo de Markdown](imagen3.png)
+
